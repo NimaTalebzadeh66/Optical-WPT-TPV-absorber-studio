@@ -1,5 +1,3 @@
-# Optical-WPT-TPV-absorber-studio
-Windows GUI for screening coating–substrate absorbers by laser absorption and thermal radiation loss.
 # Antireflection Coatings and Selective Absorbers for OWPT–TPV
 
 TMM Studio is a Windows GUI for exploring coating–substrate structures
@@ -9,7 +7,7 @@ Select an operating temperature, laser wavelength, substrate, and coating.
 The tool calculates absorption spectra and ranks candidate structures
 using a laser-absorption target and estimated thermal radiation loss.
 
-![Absorber GUI](screenshots/absorber-dashboard.png)
+![Absorber GUI](absorber-dashboard.png)
 
 ## Run the application
 
