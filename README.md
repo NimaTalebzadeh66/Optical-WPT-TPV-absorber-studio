@@ -1,4 +1,4 @@
-# Antireflection Coatings and Selective Absorbers for OWPT–TPV
+# Antireflection Coatings and Selective Absorbers for Optical Wireless Power Transmission–ThermoPhotovoltaics
 
 TMM Studio is a Windows GUI for exploring coating–substrate structures
 for laser-powered thermophotovoltaic systems.
